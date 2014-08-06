@@ -2,8 +2,15 @@
 <project name="Addition">
 
    <target name="build">
-      <solution configuration="debug"
-                solutionfile="Addition.sln" />
+     <target name="compile">
+	<csc target="library" output="build\${project::get-name()}.dll" debug="true">
+		<sources>
+		  <include name="Addition\**\*.cs" />
+		  <exclude name="Addition\**\*.*" />
+	          <exclude name="Addition\**\Assembly.cs" />
+		</sources>
+	</csc>  
+   </target>
    </target>
 
 </project>

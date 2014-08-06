@@ -2,15 +2,11 @@
 <project name="Addition">
 
    <target name="build">
-     <target name="compile">
 	<csc target="library" output="build\${project::get-name()}.dll" debug="true">
 		<sources>
-		  <include name="Addition\**\*.cs" />
-		  <exclude name="Addition\**\*.*" />
-	          <exclude name="Addition\**\Assembly.cs" />
+		  <include name="../**/*.cs" />
+		  <exclude name="../**/**/AssemblyInfo.cs" />
 		</sources>
 	</csc>  
    </target>
-   </target>
-
 </project>

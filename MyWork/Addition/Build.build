@@ -5,5 +5,4 @@
       <solution configuration="debug"
                 solutionfile="Addition.sln" />
    </target>
-<!--- checking for confict--->
 </project>

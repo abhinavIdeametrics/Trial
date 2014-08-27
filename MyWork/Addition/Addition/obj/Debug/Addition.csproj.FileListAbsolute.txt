@@ -1,0 +1,5 @@
+C:\Abcd\MyWork\Addition\Addition\obj\Debug\Addition.pdb
+C:\Abcd\Output\Addition.dll
+C:\Abcd\Output\Addition.pdb
+C:\Abcd\MyWork\Addition\Addition\obj\Debug\Addition.csprojResolveAssemblyReference.cache
+C:\Abcd\MyWork\Addition\Addition\obj\Debug\Addition.dll

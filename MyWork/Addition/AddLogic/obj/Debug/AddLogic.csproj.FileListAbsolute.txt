@@ -1,0 +1,4 @@
+C:\Abcd\Output\AddLogic.dll
+C:\Abcd\Output\AddLogic.pdb
+C:\Abcd\MyWork\Addition\AddLogic\obj\Debug\AddLogic.dll
+C:\Abcd\MyWork\Addition\AddLogic\obj\Debug\AddLogic.pdb

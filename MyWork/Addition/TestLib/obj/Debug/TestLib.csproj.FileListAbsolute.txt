@@ -1,0 +1,13 @@
+C:\Abcd\MyWork\Addition\TestLib\obj\Debug\TestLib.csprojResolveAssemblyReference.cache
+C:\Abcd\MyWork\Addition\TestLib\bin\Debug\TestLib.dll
+C:\Abcd\MyWork\Addition\TestLib\bin\Debug\TestLib.pdb
+C:\Abcd\MyWork\Addition\TestLib\bin\Debug\Addition.dll
+C:\Abcd\MyWork\Addition\TestLib\bin\Debug\AddLogic.dll
+C:\Abcd\MyWork\Addition\TestLib\bin\Debug\nunit.framework.dll
+C:\Abcd\MyWork\Addition\TestLib\bin\Debug\Rhino.Mocks.dll
+C:\Abcd\MyWork\Addition\TestLib\bin\Debug\Addition.pdb
+C:\Abcd\MyWork\Addition\TestLib\bin\Debug\AddLogic.pdb
+C:\Abcd\MyWork\Addition\TestLib\bin\Debug\nunit.framework.xml
+C:\Abcd\MyWork\Addition\TestLib\bin\Debug\Rhino.Mocks.xml
+C:\Abcd\MyWork\Addition\TestLib\obj\Debug\TestLib.dll
+C:\Abcd\MyWork\Addition\TestLib\obj\Debug\TestLib.pdb

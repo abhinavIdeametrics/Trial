@@ -11,3 +11,5 @@ C:\Abcd\MyWork\Addition\TestLib\bin\Debug\nunit.framework.xml
 C:\Abcd\MyWork\Addition\TestLib\bin\Debug\Rhino.Mocks.xml
 C:\Abcd\MyWork\Addition\TestLib\obj\Debug\TestLib.dll
 C:\Abcd\MyWork\Addition\TestLib\obj\Debug\TestLib.pdb
+C:\Abcd\Output\TestLib.dll
+C:\Abcd\Output\TestLib.pdb
